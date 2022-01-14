@@ -1,0 +1,13 @@
+! 2022-01-14 https://www.zonebourse.com
+www.zonebourse.com###dPubBg
+www.zonebourse.com###body > dPubInter
+www.zonebourse.com###back_g_d
+www.zonebourse.com###divLogo
+www.zonebourse.com###Popup > tbody > tr > td
+www.zonebourse.com###Popup
+www.zonebourse.com###PopupCertif
+www.zonebourse.com###dPubInter
+www.zonebourse.com###PopupCertifTab
+www.zonebourse.com##.blur:style(filter: blur(0px) !important)
+www.zonebourse.com##.bg2:style(filter: blur(0px) !important)
+
