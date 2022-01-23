@@ -1,6 +1,8 @@
-.blur{
-	filter: blur(0px) !important;
-}
-.bg2{
-	filter: blur(0px) !important;
+@document domain("zonebourse.com") {
+	.blur {
+		filter: blur(0px) !important;
+	}
+	.bg2 {
+		filter: blur(0px) !important;
+	}
 }
