@@ -5,4 +5,7 @@
 	.bg2 {
 		filter: blur(0px) !important;
 	}
+	body {
+		background-color: red !important;
+	}
 }
