@@ -1,2 +1,6 @@
-.blur:style(filter: blur(0px) !important)
-.bg2:style(filter: blur(0px) !important)
+.blur{
+	filter: blur(0px) !important;
+}
+.bg2{
+	filter: blur(0px) !important;
+}
