@@ -1,11 +1,15 @@
-@document domain("zonebourse.com") {
-	.blur {
-		filter: blur(0) !important;
-	}
-	.bg2 {
-		filter: blur(0) !important;
-	}
-	#back_g_d {
-		filter: blur(0) !important;
-	}
+.blur {
+	filter: blur(0) !important;
+}
+.bg2 {
+	filter: blur(0) !important;
+}
+#back_g_d {
+	filter: blur(0) !important;
+}
+#back_g_d.blur {
+	filter: blur(0) !important;
+}
+#mySITE.blur {
+	filter: blur(0) !important;
 }
