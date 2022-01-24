@@ -1,11 +1,11 @@
 @document domain("zonebourse.com") {
 	.blur {
-		filter: blur(0px) !important;
+		filter: blur(0) !important;
 	}
 	.bg2 {
-		filter: blur(0px) !important;
+		filter: blur(0) !important;
 	}
-	body {
-		background-color: red !important;
+	#back_g_d {
+		filter: blur(0) !important;
 	}
 }
