@@ -13,3 +13,7 @@
 #mySITE.blur {
 	filter: blur(0) !important;
 }
+div.SS_FDpopupS {
+	display: none !important;
+	background-image: none !important;
+}
